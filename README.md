@@ -1,2 +1,2 @@
 # Scraper-idealista.com
- Web Scraper App with C#, Scrapy
+ Web Scraping with C#, Scrapy
